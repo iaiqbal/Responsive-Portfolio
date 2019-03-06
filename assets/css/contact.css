@@ -1,0 +1,144 @@
+body {
+     background-image: url(http://www.conceptspecialist.com/wp-content/uploads/2017/01/marble-csi.jpg);
+}
+
+.header{
+    background-color: white;
+    padding: auto;
+    margin: -10px;
+}
+
+.navbar {
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.rightnavbar {
+    display: flex;
+    opacity: .72;
+}
+
+.name {
+    color: white;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+    font-size: 32px;
+    background-color: #0EA6AB;
+    padding: 25px;
+}
+
+.about {
+    padding-right: 8px;
+    border-right: 5px solid rgba(0,0, 0, .1);
+    border-width: .8px;
+    padding-top: 10px;
+    margin: 25px;
+    margin-left: -10px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.portfolio {
+    padding-right: 8px;
+    border-right: 5px solid rgba(0,0, 0, .1);
+    border-width: .8px;
+    padding-top: 10px;
+    margin: 25px;
+    margin-left: -15px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+
+}
+
+.contact {
+    padding-top: 10px;
+    margin: 25px;
+    margin-left: -15px;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+}
+
+.whitebox {
+    background-color: white;
+    border: solid rgba(0, 0, 0, .1) 10px;
+    border-width: 1px;
+    position: absolute;
+    bottom: 75px;
+    top: 120px;
+    left: 350px;
+    padding-right: 3%;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-top: 20px;
+
+    
+}
+
+h2 {
+    color: #0EA6AB;
+    border-bottom: solid rgba(0, 0, 0, .1);
+    width: 700px;
+    padding-bottom: 10px;
+
+    
+}
+
+.firstnameform{
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.emailform{
+    width: 100%;
+    margin-bottom: 10px;
+    margin-top: 5px;
+}
+
+.messageform{
+    width: 100%;
+    height: 200px;
+    margin-top: 10px;
+}
+
+.formfont{
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 12px;
+}
+
+button {
+    background-color: #0EA6AB;
+    border: none;
+    text-align: center;
+    color: white;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 14px;
+    padding: 10px;
+    margin-top: 10px;
+    
+
+}
+
+footer {
+    text-align: center;
+    background-color: gray;
+    position: fixed;
+    margin-top:600px;
+    margin-left: -20px;
+    padding-bottom: 0;
+    bottom: 0;
+    width: 100vw;
+    height: 4.2;
+    font-family: 'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    font-size: 10px;
+    
+
+}
+
+footer {
+    border-top: solid;
+    border-color: #0EA6AB;
+    border-width: 3px;
+}
+
+.copyright {
+    padding-top: .5rem;
+}
+
